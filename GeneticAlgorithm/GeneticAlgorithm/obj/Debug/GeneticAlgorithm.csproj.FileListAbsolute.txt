@@ -1,0 +1,77 @@
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+E:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+E:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+E:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+E:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+E:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+E:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+E:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+E:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+E:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+G:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+G:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+G:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+G:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+G:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+G:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+G:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+G:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+G:\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Statistic.resources
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Statistic.resources
+E:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Statistic.resources
+D:\Univer\МСШІ\Курсовая работа\GeneticAlgorithm_final\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+D:\Univer\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+D:\Univer\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+D:\Univer\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+D:\Univer\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+D:\Univer\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+D:\Univer\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+D:\Univer\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+D:\Univer\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+D:\Univer\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Statistic.resources
+D:\Univer\GitHub\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
+D:\Univer\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+D:\Univer\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+D:\Univer\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+D:\Univer\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+D:\Univer\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+D:\Univer\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+D:\Univer\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Form1.resources
+D:\Univer\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+D:\Univer\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.Statistic.resources
+D:\Univer\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.Cache
